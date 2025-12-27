@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Subbu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : ""
+  bio              : "A human"
+  location         : "Earth"
   email            :
   links:
     - label: "Email"
