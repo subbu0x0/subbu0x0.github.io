@@ -4,6 +4,4 @@ author_profile: true
 classes: wide
 ---
 
-
-**Subbu**  
-*Independent Study*
+## Study of Functional Plants
